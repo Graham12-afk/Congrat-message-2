@@ -9,3 +9,4 @@ uppercase_word = word.upper()
 # Display the congratulation message
 print("Ram is congratulating his friend:")
 print(uppercase_word, "for getting a gold medal in the state game!")
+
